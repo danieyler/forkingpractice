@@ -1,16 +1,16 @@
-## 👏 Hi, I'm *your name here*
-##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
-## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
-## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+## 👏 HI, I'M DANIELLA :)
+##  I HAVE BEEN IN THE AIR FORCE FOR ABOUT 10 YEARS. MY HUSBAND, WHO IS ALSO IN THE AIR FORCE, AND I HAVE 2 BEAUTIFUL CHILDREN.
+_SHARE SOME INFORMATION ABOUT YOURSELF, INCLUDING YOUR CLASS, MAJOR, JOBS, AND EXTRA-CURRICULARS._
+## ⚒️ SKILLS
+![LINUX](HTTPS://IMG.SHIELDS.IO/BADGE/LINUX-FCC624?LOGO=LINUX&LOGOCOLOR=BLACK)
+![GIT](HTTPS://IMG.SHIELDS.IO/BADGE/GIT-F05032?LOGO=GIT&LOGOCOLOR=WHITE)
+![POWERSHELL](HTTPS://IMG.SHIELDS.IO/BADGE/POWERSHELL-5391FE?LOGO=POWERSHELL&LOGOCOLOR=WHITE)
+## 🎉 INTERESTS
+![NETWORKING](HTTPS://IMG.SHIELDS.IO/BADGE/NETWORKING-FF6F00?LOGO=OPENAI&LOGOCOLOR=WHITE)
+![CYBERSECURITY](HTTPS://IMG.SHIELDS.IO/BADGE/CYBERSECURITY-0052CC?LOGO=PROTONVPN&LOGOCOLOR=WHITE)
+## 🔗 LINKS
+[![GITHUB](HTTPS://IMG.SHIELDS.IO/BADGE/GITHUB-100000?LOGO=GITHUB&LOGOCOLOR=WHITE)](HTTPS://GITHUB.COM/<danieyler>)
+[![LINKEDIN](HTTPS://IMG.SHIELDS.IO/BADGE/FACEBOOK-0077B5?LOGO=FACEBOOK&LOGOCOLOR=WHITE)(https://www.facebook.com/daniellanicoleeyler/))
 
-_"Your sample quote here!"_
+_"A GOOD LEADER INSPIRES PEOPLE TO HAVE CONFIDENCE IN THE LEADER. A GREAT LEADER INSPIRES PEOPLE TO HAVE CONFIDENCE IN THEMSELVES. -ELEANOR ROOSEVELT"_ 
+<img width="468" height="610" alt="image" src="https://github.com/user-attachments/assets/750e8c9f-fd34-472d-a483-6abfda8e2d29" />
