@@ -11,6 +11,6 @@ I am happily married with 2 beautiful children!
 ![Networking](https://img.shields.io/badge/Networking-3DA639?logo=networking&logoColor=white)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<danieyler>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
 _"Good leaders inspire people to have confidence in their leader. Great leaders inspire people to have confidence in themselves." - Eleanor Roosevelt_
